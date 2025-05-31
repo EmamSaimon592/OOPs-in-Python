@@ -47,3 +47,5 @@ for row in buttons:
 
 # Run the application
 root.mainloop()
+
+# run this code in vs code or pycham code editor for # getting output 
