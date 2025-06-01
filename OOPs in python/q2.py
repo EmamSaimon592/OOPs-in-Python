@@ -37,3 +37,6 @@ print("Name:", student2.name)
 print("Roll No:", student2.roll_no)
 print("Phone:", student2.phone)
 print("Address:", student2.address)
+
+# run this code then you will get the output of
+# this program
