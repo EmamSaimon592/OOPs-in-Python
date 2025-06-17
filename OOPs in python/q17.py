@@ -3,8 +3,3 @@ print("hello")
 print("My name is Emam Saimon. IIUC ")
 print("MySQL, PostgreSQL,  Docker🐋")
 print(" how are you baby")
-
-print("hello")
-print("My name is Emam Saimon. IIUC ")
-print("MySQL, PostgreSQL,  Docker🐋")
-print("1234557292998921999")
