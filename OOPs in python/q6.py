@@ -15,3 +15,5 @@ num3 = float(input("Enter third number: "))
 
 # Calling the static method without creating an object
 Average.calculate_average(num1, num2, num3)
+
+# End code
