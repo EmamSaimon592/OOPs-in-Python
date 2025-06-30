@@ -9,4 +9,4 @@ if not (x == 5):
     print("x is not equal to 5")
 
 print("vini jr Real madrid ")
-print("PowerColor AMD Radeon RX 7700 XT 12GB GDDR6 Graphics Card")
+print("PowerColor AMD Radeon RX rx 23 7700 XT 12GB GDDR6 Graphics Card")
