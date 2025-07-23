@@ -25,3 +25,5 @@ rect = Area()
 # Setting dimensions and printing area
 rect.setDim(length, breadth)
 print("Area of the rectangle:", rect.getArea())
+
+// run this code to get output
