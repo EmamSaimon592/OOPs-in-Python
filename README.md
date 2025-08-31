@@ -1,2 +1,2 @@
-# OOPs-in-Python ❤️
-Object Oriented Programming is a fundamental concept in Python, empowering developers to build modular, maintainable, and scalable application. coming soon somthing ...
+# OOPs-in-Python 
+Object Oriented Programming is a fundamental concept in Python, empowering developers to build modular, maintainable, and scalable application.
